@@ -1,0 +1,18 @@
+	*{
+		grid_container_width = 500;
+		cell_side_length = 100;
+		cell_space = 20;
+	}
+	#grid_container{
+	width:grid_container_width - 2 * cell_space;
+	height:grid_container_width - 2 * cell_space;
+	padding: cell_space;
+	border-radius: 0.02*grid_container_width;
+	}
+
+	.grid_cell
+	{
+	width:cell_side_length;
+    height:cell_side_length;
+	border-radius:0.02 * grid_container_width;	
+    }
