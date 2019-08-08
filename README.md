@@ -3,5 +3,7 @@
 
 
 效果图：
+
+
 ![](https://github.com/wingever/2048/blob/master/img/first.png)
 ![](https://github.com/wingever/2048/blob/master/img/second.png)
